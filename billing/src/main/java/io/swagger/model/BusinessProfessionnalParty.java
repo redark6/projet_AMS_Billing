@@ -14,7 +14,7 @@ import javax.validation.constraints.*;
  */
 @Schema(description = "Describes professionnal organisation")
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2022-07-10T15:25:47.841Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2022-07-14T16:39:06.461Z[GMT]")
 
 
 public class BusinessProfessionnalParty  implements OneOfBusinessBuyerParty {

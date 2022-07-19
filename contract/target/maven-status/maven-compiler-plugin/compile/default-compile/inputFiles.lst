@@ -12,12 +12,16 @@ C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\api\NotFoundException
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\configuration\LocalDateTimeConverter.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\model\OneOfContractRequestCustom.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\model\ErrorResponse.java
+C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\kafka_model\ContractKafka.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\model\BusinessParticularParty.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\Swagger2SpringBoot.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\api\ApiOriginFilter.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\model\BusinessSubscriberEInvoicing.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\api\ContractsApi.java
+C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\producer_kafka\ProducerContract.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\model\ContractResponse.java
+C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\consumer_kafka\ConsumerSubscription.java
+C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\kafka_model\SubscriptionKafka.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\model\ErrorType.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\api\ApiException.java
 C:\Users\Red\Desktop\ams\contract\src\main\java\io\swagger\model\WireTransfertResource.java
